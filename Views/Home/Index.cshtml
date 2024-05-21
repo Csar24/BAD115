@@ -1,8 +1,15 @@
-﻿@{
+﻿@model IEnumerable<WebApplication4.Models.OfertaLaboral>
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <a class="nav-link text-dark" asp-area="" asp-controller="OfertasLaborales" asp-action="Index">Ofertas</a>
+    <main role="main" class="pb-3">
+        <!-- Render  de la ofertas-->
+        @Html.Partial("_OfertasParciales", Model)
+    </main>
+
 </div>

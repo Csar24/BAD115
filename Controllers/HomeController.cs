@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
+using WebApplication4.Data;
 using WebApplication4.Models;
 
 namespace WebApplication4.Controllers
@@ -7,15 +9,19 @@ namespace WebApplication4.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly OfertasLaboralesContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger ,OfertasLaboralesContext context)
         {
+            _context = context;
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+
+            var ofertasLaborales = await _context.OfertaLaboral.ToListAsync();
+            return View(ofertasLaborales);
         }
 
         public IActionResult Privacy()

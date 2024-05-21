@@ -1,0 +1,28 @@
+﻿
+@model IEnumerable<WebApplication4.Models.OfertaLaboral>
+
+
+<div class="card-group">
+
+    @foreach (var item in Model)
+        {
+        <div style="margin: 10px;">
+         <div class="card border-info mb-3" style="width: 18rem;">
+                <img class="card-img-top" src="" alt="Card image cap">
+                <div class="card-body" >
+                   
+                    <h5 class="card-title">@Html.DisplayFor(modelItem => item.Cargo)</h5>
+                    <p class="card-text">@Html.DisplayFor(modelItem => item.Descripcion)</p>
+                    <p class="card-text">@Html.DisplayFor(modelItem => item.FechaLimite)</p>
+                    <p class="card-text">$ @Html.DisplayFor(modelItem => item.Salario)</p>
+                    <a asp-controller="OfertasLaborales" asp-action="Details" asp-route-id="@item.idOfertaLaboral" class="btn btn-primary">Details</a>
+                    <a href="#" class="btn btn-primary">Aplicar</a>
+                
+                </div>
+              
+         </div>
+        </div>                
+    }
+</div>
+
+

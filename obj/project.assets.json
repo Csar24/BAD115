@@ -7844,11 +7844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-Pruebas-v1.29\\WebApplication4.csproj",
+      "projectUniqueName": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\WebApplication4.csproj",
       "projectName": "WebApplication4",
-      "projectPath": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-Pruebas-v1.29\\WebApplication4.csproj",
+      "projectPath": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\WebApplication4.csproj",
       "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-Pruebas-v1.29\\obj\\",
+      "outputPath": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
