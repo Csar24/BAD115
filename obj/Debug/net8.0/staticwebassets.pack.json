@@ -17,6 +17,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\wwwroot\\img\\Logo.jpeg",
+      "PackagePath": "staticwebassets\\img\\Logo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\wwwroot\\img\\Logo2.jpeg",
+      "PackagePath": "staticwebassets\\img\\Logo2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\wwwroot\\img\\Logo3.png",
+      "PackagePath": "staticwebassets\\img\\Logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\wwwroot\\img\\Logo4.png",
+      "PackagePath": "staticwebassets\\img\\Logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\wwwroot\\img\\img-Trabajo.jpg",
+      "PackagePath": "staticwebassets\\img\\img-Trabajo.jpg"
+    },
+    {
       "Id": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

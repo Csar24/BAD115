@@ -2,21 +2,29 @@
 @model IEnumerable<WebApplication4.Models.OfertaLaboral>
 
 
-<div class="card-group">
+<div class="card-group ">
 
     @foreach (var item in Model)
         {
         <div style="margin: 10px;">
          <div class="card border-info mb-3" style="width: 18rem;">
-                <img class="card-img-top" src="" alt="Card image cap">
+                <img class="card-img-top" src="/img/img-Trabajo.jpg" alt="Card image cap">
                 <div class="card-body" >
                    
                     <h5 class="card-title">@Html.DisplayFor(modelItem => item.Cargo)</h5>
-                    <p class="card-text">@Html.DisplayFor(modelItem => item.Descripcion)</p>
-                    <p class="card-text">@Html.DisplayFor(modelItem => item.FechaLimite)</p>
-                    <p class="card-text">$ @Html.DisplayFor(modelItem => item.Salario)</p>
-                    <a asp-controller="OfertasLaborales" asp-action="Details" asp-route-id="@item.idOfertaLaboral" class="btn btn-primary">Details</a>
-                    <a href="#" class="btn btn-primary">Aplicar</a>
+                    <p class="card-text"> <i class="bi bi-geo-alt"> </i> @Html.DisplayFor(modelItem => item.Lugar)</p>
+                    
+                    <div class="card-title">
+                        <h6>@Html.DisplayNameFor(model => model.Salario) $ @Html.DisplayFor(modelItem => item.Salario) </h6>
+                    </div>
+                    <p class="card-text">
+                        <small class="text-muted">
+                            Fecha Limite: @item.FechaLimite.ToString("dd/MM/yyyy")
+                        </small>
+                        
+                    </p>
+                    <a asp-controller="OfertasLaborales" asp-action="Details" asp-route-id="@item.idOfertaLaboral" class="btn btn-outline-dark">Informacion</a>
+                    <a href="#" class="btn btn-outline-dark"><i class="bi bi-box-arrow-in-up-right"></i> Aplicar</a>
                 
                 </div>
               
