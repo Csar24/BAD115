@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "gHICGHo4Q4DavrvSWlGrIh36TAt3bQyb7XDJw55FGPQRoyKawL73ebvldangJ1ihD9tkE1BsRgLP01QgOikmcg==",
   "success": true,
   "projectFilePath": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\WebApplication4.csproj",
-=======
-  "dgSpecHash": "bBM/QVp2K50FLn03AfSZWQslDublnTRKKCGOo9eC3rU4v+89Z4bPPoFW6MB8aIsnJPPnMAGHquwWyaUt7mdrlA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\WebApplication4.csproj",
->>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
   "expectedPackageFiles": [
     "C:\\Users\\cesar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

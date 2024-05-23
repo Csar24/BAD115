@@ -1511,7 +1511,6 @@ C:\Users\cesar\Documents\UES 2024\Base de Datos\Programas\ProyectoBAD115\Nueva c
 C:\Users\cesar\Documents\UES 2024\Base de Datos\Programas\ProyectoBAD115\Nueva carpeta\BAD115-v1.29\obj\Debug\net8.0\WebApplication4.pdb
 C:\Users\cesar\Documents\UES 2024\Base de Datos\Programas\ProyectoBAD115\Nueva carpeta\BAD115-v1.29\obj\Debug\net8.0\WebApplication4.genruntimeconfig.cache
 C:\Users\cesar\Documents\UES 2024\Base de Datos\Programas\ProyectoBAD115\Nueva carpeta\BAD115-v1.29\obj\Debug\net8.0\ref\WebApplication4.dll
-<<<<<<< HEAD
 C:\Users\cesar\Downloads\BAD115-main\BAD115-main\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\cesar\Downloads\BAD115-main\BAD115-main\bin\Debug\net8.0\appsettings.json
 C:\Users\cesar\Downloads\BAD115-main\BAD115-main\bin\Debug\net8.0\WebApplication4.staticwebassets.runtime.json
@@ -1764,5 +1763,3 @@ C:\Users\cesar\Downloads\BAD115-main\BAD115-main\obj\Debug\net8.0\refint\WebAppl
 C:\Users\cesar\Downloads\BAD115-main\BAD115-main\obj\Debug\net8.0\WebApplication4.pdb
 C:\Users\cesar\Downloads\BAD115-main\BAD115-main\obj\Debug\net8.0\WebApplication4.genruntimeconfig.cache
 C:\Users\cesar\Downloads\BAD115-main\BAD115-main\obj\Debug\net8.0\ref\WebApplication4.dll
-=======
->>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242

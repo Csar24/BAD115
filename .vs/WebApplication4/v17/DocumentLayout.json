@@ -1,6 +1,5 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\",
   "Documents": [
     {
@@ -38,57 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\downloads\\bad115-main\\bad115-main\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-=======
-  "WorkspaceRootPath": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\documents\\ues 2024\\base de datos\\programas\\proyectobad115\\nueva carpeta\\bad115-v1.29\\views\\home\\_ofertasparciales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:views\\home\\_ofertasparciales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\documents\\ues 2024\\base de datos\\programas\\proyectobad115\\nueva carpeta\\bad115-v1.29\\views\\ofertaslaborales\\_ofertasparciales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:views\\ofertaslaborales\\_ofertasparciales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\documents\\ues 2024\\base de datos\\programas\\proyectobad115\\nueva carpeta\\bad115-v1.29\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\documents\\ues 2024\\base de datos\\programas\\proyectobad115\\nueva carpeta\\bad115-v1.29\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\documents\\ues 2024\\base de datos\\programas\\proyectobad115\\nueva carpeta\\bad115-v1.29\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\documents\\ues 2024\\base de datos\\programas\\proyectobad115\\nueva carpeta\\bad115-v1.29\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\documents\\ues 2024\\base de datos\\programas\\proyectobad115\\nueva carpeta\\bad115-v1.29\\views\\ofertaslaborales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:views\\ofertaslaborales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\documents\\ues 2024\\base de datos\\programas\\proyectobad115\\nueva carpeta\\bad115-v1.29\\views\\empresas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:views\\empresas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\documents\\ues 2024\\base de datos\\programas\\proyectobad115\\nueva carpeta\\bad115-v1.29\\views\\empresas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:views\\empresas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\documents\\ues 2024\\base de datos\\programas\\proyectobad115\\nueva carpeta\\bad115-v1.29\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\documents\\ues 2024\\base de datos\\programas\\proyectobad115\\nueva carpeta\\bad115-v1.29\\models\\viewmodel\\registrarempresaviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:models\\viewmodel\\registrarempresaviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\documents\\ues 2024\\base de datos\\programas\\proyectobad115\\nueva carpeta\\bad115-v1.29\\models\\ofertalaboral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:models\\ofertalaboral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
     }
   ],
   "DocumentGroupContainers": [
@@ -101,7 +49,6 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
-<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "OfertasLaboralesController.cs",
@@ -112,28 +59,11 @@
               "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T23:34:10.592Z",
-=======
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-22T16:48:29.515Z",
->>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-<<<<<<< HEAD
               "Title": "Crear.cshtml",
               "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Views\\Empresas\\Crear.cshtml",
               "RelativeDocumentMoniker": "Views\\Empresas\\Crear.cshtml",
@@ -207,22 +137,11 @@
               "ViewState": "AQIAAPgAAAAAAAAAAAAQwAcBAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T22:48:24.306Z",
-=======
-              "Title": "_OfertasParciales.cshtml",
-              "DocumentMoniker": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\OfertasLaborales\\_OfertasParciales.cshtml",
-              "RelativeDocumentMoniker": "Views\\OfertasLaborales\\_OfertasParciales.cshtml",
-              "ToolTip": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\OfertasLaborales\\_OfertasParciales.cshtml",
-              "RelativeToolTip": "Views\\OfertasLaborales\\_OfertasParciales.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T16:00:59.572Z",
->>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-<<<<<<< HEAD
               "Title": "RegistrarEmpresaViewModels.cs",
               "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Models\\ViewModel\\RegistrarEmpresaViewModels.cs",
               "RelativeDocumentMoniker": "Models\\ViewModel\\RegistrarEmpresaViewModels.cs",
@@ -231,74 +150,11 @@
               "ViewState": "AQIAAA8AAAAAAAAAAAAYwCMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T22:48:06.03Z",
-=======
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Usuarios\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Usuarios\\Login.cshtml",
-              "ToolTip": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Usuarios\\Login.cshtml",
-              "RelativeToolTip": "Views\\Usuarios\\Login.cshtml",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAAC8AAACKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T15:42:47.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T15:29:29.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T15:09:16.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_OfertasParciales.cshtml",
-              "DocumentMoniker": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Home\\_OfertasParciales.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\_OfertasParciales.cshtml",
-              "ToolTip": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Home\\_OfertasParciales.cshtml",
-              "RelativeToolTip": "Views\\Home\\_OfertasParciales.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T15:09:00.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Empresas\\Crear.cshtml",
-              "RelativeDocumentMoniker": "Views\\Empresas\\Crear.cshtml",
-              "ToolTip": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Empresas\\Crear.cshtml",
-              "RelativeToolTip": "Views\\Empresas\\Crear.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T14:47:49.547Z",
->>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-<<<<<<< HEAD
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Views\\Usuarios\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Usuarios\\Login.cshtml",
@@ -307,68 +163,6 @@
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAC8AAACKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-22T15:42:47.969Z",
-=======
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Empresas\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Empresas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\Empresas\\Index.cshtml",
-              "RelativeToolTip": "Views\\Empresas\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T14:47:38.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\OfertasLaborales\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\OfertasLaborales\\Create.cshtml",
-              "ToolTip": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Views\\OfertasLaborales\\Create.cshtml",
-              "RelativeToolTip": "Views\\OfertasLaborales\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T14:46:52.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OfertaLaboral.cs",
-              "DocumentMoniker": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Models\\OfertaLaboral.cs",
-              "RelativeDocumentMoniker": "Models\\OfertaLaboral.cs",
-              "ToolTip": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Models\\OfertaLaboral.cs",
-              "RelativeToolTip": "Models\\OfertaLaboral.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T14:46:36.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EmpresasController.cs",
-              "DocumentMoniker": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Controllers\\EmpresasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmpresasController.cs",
-              "ToolTip": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Controllers\\EmpresasController.cs",
-              "RelativeToolTip": "Controllers\\EmpresasController.cs",
-              "ViewState": "AQIAAMMAAAAAAAAAAAAuwNoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T13:45:59.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegistrarEmpresaViewModels.cs",
-              "DocumentMoniker": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Models\\ViewModel\\RegistrarEmpresaViewModels.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModel\\RegistrarEmpresaViewModels.cs",
-              "ToolTip": "C:\\Users\\cesar\\Documents\\UES 2024\\Base de Datos\\Programas\\ProyectoBAD115\\Nueva carpeta\\BAD115-v1.29\\Models\\ViewModel\\RegistrarEmpresaViewModels.cs",
-              "RelativeToolTip": "Models\\ViewModel\\RegistrarEmpresaViewModels.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T13:45:52.923Z",
->>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
               "EditorCaption": ""
             }
           ]

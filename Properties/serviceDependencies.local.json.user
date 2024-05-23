@@ -12,13 +12,10 @@
       "restored": true,
       "restoreTime": "2024-05-16T06:21:16.6207753Z"
     },
-<<<<<<< HEAD
     "mssql12": {
       "restored": true,
       "restoreTime": "2024-05-22T22:18:11.92567Z"
     },
-=======
->>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
     "mssql11": {
       "restored": true,
       "restoreTime": "2024-05-19T09:03:53.029041Z"
