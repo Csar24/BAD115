@@ -9,7 +9,11 @@
 <div class="row justify-content-center h-50 ">
     <div  class="card border-info mb-3 col-md-4" style="background-color:white ;padding:3%">
         <h4 class="text-center mb-3  ">Datos de la Empresa</h4>
+<<<<<<< HEAD
         <form asp-action="Crear" enctype="multipart/form-data" method="post">
+=======
+        <form asp-action="Crear" method="post" >
+>>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
             <div class="form-group mb-3">
                 
                 <input asp-for="NombreUsuario" class="form-control" placeholder="Usuario" />
@@ -45,11 +49,14 @@
                 <input asp-for="Telefono" class="form-control" placeholder="telefono" />
                 <span asp-validation-for="Telefono" class="text-danger"></span>
             </div>
+<<<<<<< HEAD
             <div class="form-group mb-3">
                 <!-- Campo para la carga del logo -->
                 <input asp-for="Logo" class="form-control" type="file" />
                 <span asp-validation-for="Logo" class="text-danger"></span>
             </div>
+=======
+>>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
             <div class="form-group text-center mb-3">
                 <input type="submit" value="Registrarse" class="btn btn-outline-dark" />
             </div>

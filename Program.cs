@@ -2,9 +2,12 @@
 using Microsoft.Extensions.DependencyInjection;
 using WebApplication4.Data;
 var builder = WebApplication.CreateBuilder(args);
+<<<<<<< HEAD
 builder.Services.AddDbContext<LogoContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("LogoContext") ?? throw new InvalidOperationException("Connection string 'LogoContext' not found.")));
 
+=======
+>>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
 builder.Services.AddDbContext<TituloContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("TituloContext") ?? throw new InvalidOperationException("Connection string 'TituloContext' not found.")));
 builder.Services.AddDbContext<HabilidadContext>(options =>
