@@ -17,6 +17,7 @@ namespace WebApplication4.Controllers
         
         private readonly UsuarioContext _usuarioContext;
 
+<<<<<<< HEAD
         private readonly LogoContext _logoContext;
 
         private readonly IWebHostEnvironment _hostEnvironment;
@@ -27,6 +28,12 @@ namespace WebApplication4.Controllers
             _usuarioContext= usuarioContext;
             _logoContext=logoContext;
             _hostEnvironment = hostEnvironment;
+=======
+        public EmpresasController(EmpresaContext context, UsuarioContext usuarioContext)
+        {
+            _context = context;
+            _usuarioContext= usuarioContext;
+>>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
         }
 
         // GET: Empresas
@@ -204,6 +211,7 @@ namespace WebApplication4.Controllers
         {
             if (ModelState.IsValid)
             {
+<<<<<<< HEAD
                 try
                 {
                     // Crear el usuario
@@ -293,6 +301,39 @@ namespace WebApplication4.Controllers
 
 
 private bool EmpresaExists(int id)
+=======
+                // Crear el usuario
+                var usuario = new Usuario
+                {
+                    Nombre = model.NombreUsuario,
+                    Contrasenia = model.ContraseniaUsuario,
+                    Tipo = "Empresa"
+                };
+
+                _usuarioContext.Usuario.Add(usuario);
+                await _usuarioContext.SaveChangesAsync();
+
+                // Crear el candidato y asignar el IdUsuario
+                var empresa = new Empresa
+                {
+                    Nombre = model.Nombre,
+                    Correo = model.Correo,
+                    Descripcion = model.Descripcion,
+                    Telefono = model.Telefono,
+                    Direccion=model.Direccion,    
+                    idUsuario = usuario.idUsuario // Asignar el ID del Usuario creado
+                };
+
+                _context.Empresa.Add(empresa);
+                await _context.SaveChangesAsync();
+
+                return RedirectToAction(nameof(Index));
+            }
+            return View(model);
+        }
+
+        private bool EmpresaExists(int id)
+>>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
         {
             return _context.Empresa.Any(e => e.idEmpresa == id);
         }

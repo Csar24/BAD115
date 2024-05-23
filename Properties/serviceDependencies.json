@@ -43,10 +43,13 @@
     "mssql11": {
       "type": "mssql",
       "connectionId": "ConnectionStrings:TituloContext"
+<<<<<<< HEAD
     },
     "mssql12": {
       "type": "mssql",
       "connectionId": "ConnectionStrings:LogoContext"
+=======
+>>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
     }
   }
 }

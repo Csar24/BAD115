@@ -16,7 +16,10 @@
   </ItemGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <Folder Include="wwwroot\Content\Logos\" />
+=======
+>>>>>>> 5f2a491fac35e0e85329578513d30165bbd2b242
     <Folder Include="wwwroot\img\" />
   </ItemGroup>
 
