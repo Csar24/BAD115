@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\downloads\\bad115-main\\bad115-main\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\downloads\\bad115-main\\bad115-main\\views\\empresas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:views\\empresas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\downloads\\bad115-main\\bad115-main\\models\\viewmodel\\registrarempresaviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:models\\viewmodel\\registrarempresaviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\downloads\\bad115-main\\bad115-main\\models\\viewmodel\\usuariologinviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:models\\viewmodel\\usuariologinviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\downloads\\bad115-main\\bad115-main\\wwwroot\\ofertaslaboralescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:wwwroot\\ofertaslaboralescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\downloads\\bad115-main\\bad115-main\\logoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:logoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\downloads\\bad115-main\\bad115-main\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\downloads\\bad115-main\\bad115-main\\models\\logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:models\\logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|c:\\users\\cesar\\downloads\\bad115-main\\bad115-main\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5490C015-DC23-4731-8413-3E86E19C3E52}|WebApplication4.csproj|solutionrelative:views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OfertasLaboralesController.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\wwwroot\\OfertasLaboralesController.cs",
+              "RelativeDocumentMoniker": "wwwroot\\OfertasLaboralesController.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\wwwroot\\OfertasLaboralesController.cs",
+              "RelativeToolTip": "wwwroot\\OfertasLaboralesController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:34:10.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Views\\Empresas\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Views\\Empresas\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Views\\Empresas\\Crear.cshtml",
+              "RelativeToolTip": "Views\\Empresas\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:09:11.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioLoginViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Models\\ViewModel\\UsuarioLoginViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModel\\UsuarioLoginViewModels.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Models\\ViewModel\\UsuarioLoginViewModels.cs",
+              "RelativeToolTip": "Models\\ViewModel\\UsuarioLoginViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:05:57.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Models\\Empresa.cs",
+              "RelativeDocumentMoniker": "Models\\Empresa.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Models\\Empresa.cs",
+              "RelativeToolTip": "Models\\Empresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:54:29.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogosController.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\LogosController.cs",
+              "RelativeDocumentMoniker": "LogosController.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\LogosController.cs",
+              "RelativeToolTip": "LogosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:50:49.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logo.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Models\\Logo.cs",
+              "RelativeDocumentMoniker": "Models\\Logo.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Models\\Logo.cs",
+              "RelativeToolTip": "Models\\Logo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:50:45.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpresasController.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Controllers\\EmpresasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpresasController.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Controllers\\EmpresasController.cs",
+              "RelativeToolTip": "Controllers\\EmpresasController.cs",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAQwAcBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:48:24.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarEmpresaViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Models\\ViewModel\\RegistrarEmpresaViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModel\\RegistrarEmpresaViewModels.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Models\\ViewModel\\RegistrarEmpresaViewModels.cs",
+              "RelativeToolTip": "Models\\ViewModel\\RegistrarEmpresaViewModels.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:48:06.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Views\\Usuarios\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Login.cshtml",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\BAD115-main\\BAD115-main\\Views\\Usuarios\\Login.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Login.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC8AAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T15:42:47.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

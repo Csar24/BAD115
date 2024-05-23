@@ -1,0 +1,14 @@
+﻿@model IEnumerable<WebApplication4.Models.OfertaLaboral>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class=" display-6">OFERTAS DE EMPLEOS</h1>
+    
+    <main role="main" class="pb-3">
+        <!-- Render  de la ofertas-->
+        @Html.Partial("_OfertasParciales", Model)
+    </main>
+
+</div>

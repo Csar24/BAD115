@@ -1,0 +1,62 @@
+﻿@model WebApplication4.Models.ViewModel.RegistrarEmpresaViewModel
+
+@{
+    ViewData["Title"] = "Crear Candidato y Usuario";
+}
+
+<h1 class="text-center ">REGÍSTRATE GRATIS</h1>
+<hr />
+<div class="row justify-content-center h-50 ">
+    <div  class="card border-info mb-3 col-md-4" style="background-color:white ;padding:3%">
+        <h4 class="text-center mb-3  ">Datos de la Empresa</h4>
+        <form asp-action="Crear" enctype="multipart/form-data" method="post">
+            <div class="form-group mb-3">
+                
+                <input asp-for="NombreUsuario" class="form-control" placeholder="Usuario" />
+                <span asp-validation-for="NombreUsuario" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                
+                <input asp-for="ContraseniaUsuario" class="form-control" type="password"  placeholder="Contraseña"/>
+                <span asp-validation-for="ContraseniaUsuario" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                
+                <input asp-for="Nombre" class="form-control"  placeholder="Nombre de la Empresa"/>
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+               
+                <input asp-for="Correo" class="form-control" placeholder="Correo" />
+                <span asp-validation-for="Correo" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                
+                <input asp-for="Direccion" class="form-control" placeholder="Direcccion" />
+                <span asp-validation-for="Direccion" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                
+                <input asp-for="Descripcion" class="form-control" placeholder="Descripcion" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+              
+                <input asp-for="Telefono" class="form-control" placeholder="telefono" />
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <!-- Campo para la carga del logo -->
+                <input asp-for="Logo" class="form-control" type="file" />
+                <span asp-validation-for="Logo" class="text-danger"></span>
+            </div>
+            <div class="form-group text-center mb-3">
+                <input type="submit" value="Registrarse" class="btn btn-outline-dark" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

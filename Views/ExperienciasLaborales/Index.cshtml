@@ -1,0 +1,53 @@
+﻿@model IEnumerable<WebApplication4.Models.ExperienciaLaboral>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Institucion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Periodo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FuncionesRealizadas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCandidato)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Institucion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Periodo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FuncionesRealizadas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCandidato)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.idExperienciaLaboral">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.idExperienciaLaboral">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.idExperienciaLaboral">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

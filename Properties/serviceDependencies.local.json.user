@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "restored": true,
+      "restoreTime": "2024-05-15T04:43:40.6472077Z"
+    },
+    "mssql7": {
+      "restored": true,
+      "restoreTime": "2024-05-19T07:58:36.3132844Z"
+    },
+    "mssql3": {
+      "restored": true,
+      "restoreTime": "2024-05-16T06:21:16.6207753Z"
+    },
+    "mssql12": {
+      "restored": true,
+      "restoreTime": "2024-05-22T22:18:11.92567Z"
+    },
+    "mssql11": {
+      "restored": true,
+      "restoreTime": "2024-05-19T09:03:53.029041Z"
+    },
+    "mssql10": {
+      "restored": true,
+      "restoreTime": "2024-05-19T08:55:41.0688651Z"
+    },
+    "mssql4": {
+      "restored": true,
+      "restoreTime": "2024-05-16T19:04:34.2551094Z"
+    },
+    "mssql8": {
+      "restored": true,
+      "restoreTime": "2024-05-19T08:12:22.7767111Z"
+    },
+    "mssql5": {
+      "restored": true,
+      "restoreTime": "2024-05-16T19:12:23.4484064Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-05-15T04:41:57.4151304Z"
+    },
+    "mssql9": {
+      "restored": true,
+      "restoreTime": "2024-05-19T08:47:29.5829228Z"
+    },
+    "mssql6": {
+      "restored": true,
+      "restoreTime": "2024-05-19T07:47:54.1085904Z"
+    }
+  },
+  "parameters": {}
+}
